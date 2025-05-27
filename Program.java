@@ -17,7 +17,7 @@ public class Program {
 
         Vacancy vac1 = new Vacancy("Google", "jun", 35000);
         Vacancy vac2 = new Vacancy("Google", "mid", 35000,"тестировщик");           
-        Vacancy vac3 = new Vacancy("Google", "mid", 75000,"инженер-программист");      
+        Vacancy vac3 = new Vacancy("Google", "mid", 75000,"инженер");      
         Vacancy vac4 = new Vacancy("geekBrains", "sen", 175000,"архитектор");    
      
         jobAgency.addVacancy(vac1);
